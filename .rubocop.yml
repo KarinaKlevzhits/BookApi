@@ -51,4 +51,4 @@ Lint/MissingSuper:
 
 Style/GuardClause:
     Exclude:
-    - 'app/models/user.rb'
+    - "app/models/user.rb"
